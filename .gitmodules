@@ -1,0 +1,24 @@
+[submodule "mola"]
+	path = mola
+	url = https://github.com/user247-tai/mola.git
+[submodule "mola_common"]
+	path = mola_common
+	url = https://github.com/user247-tai/mola_common.git
+[submodule "mola_imu_preintegration"]
+	path = mola_imu_preintegration
+	url = https://github.com/user247-tai/mola_imu_preintegration.git
+[submodule "mola_lidar_odometry"]
+	path = mola_lidar_odometry
+	url = https://github.com/user247-tai/mola_lidar_odometry.git
+[submodule "mola_sm_loop_closure"]
+	path = mola_sm_loop_closure
+	url = https://github.com/user247-tai/mola_sm_loop_closure.git
+[submodule "mola_state_estimation"]
+	path = mola_state_estimation
+	url = https://github.com/user247-tai/mola_state_estimation.git
+[submodule "mola_test_datasets"]
+	path = mola_test_datasets
+	url = https://github.com/user247-tai/mola_test_datasets.git
+[submodule "mp2p_icp"]
+	path = mp2p_icp
+	url = https://github.com/user247-tai/mp2p_icp.git
